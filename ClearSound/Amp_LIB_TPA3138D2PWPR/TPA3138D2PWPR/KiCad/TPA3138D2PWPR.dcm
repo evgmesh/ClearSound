@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPA3138D2PWPR
+D 10W 3.5V14.4V Inductor-Free Stereo Analog Input Class-D Audio Amplifier
+K
+F http://www.ti.com/lit/gpn/tpa3138d2
+$ENDCMP
+#
+#End Doc Library
