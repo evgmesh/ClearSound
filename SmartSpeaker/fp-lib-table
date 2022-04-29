@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "ARM Cortex M0+")(type "KiCad")(uri "D:/Toe/KiCad Projects/KiCAD")(options "")(descr ""))
+)

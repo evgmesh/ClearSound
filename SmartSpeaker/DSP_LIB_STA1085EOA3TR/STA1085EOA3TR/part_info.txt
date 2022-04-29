@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=STA1085EOA3TR
+PartCategory=Integrated Circuit
+PackageCategory=BGA
+PinCount=361
+Version=2.1
+Released=2022-02-21 08:24:04
+Downloaded=2022-04-11 10:27:18
+3D=Y
