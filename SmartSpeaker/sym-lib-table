@@ -1,7 +1,0 @@
-(sym_lib_table
-  (lib (name "LPC")(type "Legacy")(uri "${KIPRJMOD}/LPC1549JBD64/LPC1549JBD64.lib")(options "")(descr ""))
-  (lib (name "STA1085")(type "Legacy")(uri "${KIPRJMOD}/DSP_LIB_STA1085EOA3TR/STA1085EOA3TR/KiCad/STA1085EOA3TR.lib")(options "")(descr ""))
-  (lib (name "AMP")(type "Legacy")(uri "${KIPRJMOD}/Amp_LIB_TPA3138D2PWPR/TPA3138D2PWPR/KiCad/TPA3138D2PWPR.lib")(options "")(descr ""))
-  (lib (name "Wifi")(type "Legacy")(uri "${KIPRJMOD}/WiFi LIB_DA16200-00000F22/DA16200-00000F22/KiCad/DA16200-00000F22.lib")(options "")(descr ""))
-  (lib (name "Mic")(type "Legacy")(uri "${KIPRJMOD}/Mic/conn.lib")(options "")(descr ""))
-)

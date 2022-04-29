@@ -1,9 +1,0 @@
-Manufacturer=Dialog Semiconductor
-PartNumber=DA16200-00000F22
-PartCategory=Integrated Circuit
-PackageCategory=Other
-PinCount=72
-Version=1.6
-Released=2021-08-25 12:24:28
-Downloaded=2022-04-27 06:54:51
-3D=Y

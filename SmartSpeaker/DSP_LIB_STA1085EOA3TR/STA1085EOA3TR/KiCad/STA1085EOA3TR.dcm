@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP STA1085EOA3TR
-D Accordo2 Dual Core CortexR4/CortexM3 processor, with embedded SRAM, integrated DSP sound subsystem, audio ADCs and DACs, isolated CAN MCU for car radio applications
-K
-F https://www.st.com/resource/en/datasheet/sta1080.pdf
-$ENDCMP
-#
-#End Doc Library

@@ -1,9 +1,0 @@
-Manufacturer=Texas Instruments
-PartNumber=TPA3138D2PWPR
-PartCategory=Integrated Circuit
-PackageCategory=Small Outline Packages
-PinCount=29
-Version=1.1
-Released=2019-09-27 11:51:45
-Downloaded=2022-04-11 12:00:22
-3D=Y

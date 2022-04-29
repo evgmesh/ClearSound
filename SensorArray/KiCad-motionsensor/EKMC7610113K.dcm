@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP EKMC7610113K
-D PIR MOTION SENSOR PaPIRs VZ seriesFlat square type (170uA / Digital output / Low sensitivity)
-K
-F https://na.industrial.panasonic.com/file-download/244494
-$ENDCMP
-#
-#End Doc Library
