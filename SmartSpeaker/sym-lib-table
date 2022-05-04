@@ -4,4 +4,5 @@
   (lib (name "AMP")(type "Legacy")(uri "${KIPRJMOD}/Amp_LIB_TPA3138D2PWPR/TPA3138D2PWPR/KiCad/TPA3138D2PWPR.lib")(options "")(descr ""))
   (lib (name "Wifi")(type "Legacy")(uri "${KIPRJMOD}/WiFi LIB_DA16200-00000F22/DA16200-00000F22/KiCad/DA16200-00000F22.lib")(options "")(descr ""))
   (lib (name "Mic")(type "Legacy")(uri "${KIPRJMOD}/Mic/conn.lib")(options "")(descr ""))
+  (lib (name "YC0009AA")(type "Legacy")(uri "${KIPRJMOD}/Antenna/YC0009AA.lib")(options "")(descr ""))
 )
