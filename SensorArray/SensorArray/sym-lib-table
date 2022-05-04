@@ -2,4 +2,5 @@
   (lib (name "MCU")(type "Legacy")(uri "/Volumes/EXTMACIN/Metropolia/Metro_SemtIV/IoT_design/ClearSound_Kicad/ClearSound/SensorArray/ul_R7FS128783A01CFJ-AA1/KiCAD/2022-04-27_06-41-47/2022-04-27_06-41-47.lib")(options "")(descr ""))
   (lib (name "Mt Sensor")(type "Legacy")(uri "/Volumes/EXTMACIN/Metropolia/Metro_SemtIV/IoT_design/ClearSound_Kicad/ClearSound/SensorArray/KiCad-motionsensor/EKMC7610113K.lib")(options "")(descr ""))
   (lib (name "Wifi ESP")(type "Legacy")(uri "/Volumes/EXTMACIN/Metropolia/Metro_SemtIV/IoT_design/ClearSound_Kicad/ClearSound/SensorArray/KiCad-motionsensor/EKMC7610113K.lib")(options "")(descr ""))
+  (lib (name "IR Cam")(type "Legacy")(uri "/Volumes/EXTMACIN/Metropolia/Metro_SemtIV/IoT_design/ClearSound_Kicad/ClearSound/SensorArray/MLX90640ESF-BAA-000-TU/MLX90640ESF-BAA-000-TU.lib")(options "")(descr ""))
 )
